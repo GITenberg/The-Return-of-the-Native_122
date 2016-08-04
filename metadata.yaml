@@ -1,0 +1,46 @@
+_repo: The-Return-of-the-Native_122
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
+description: "The Return of the Native is Thomas Hardy's sixth published novel. It\
+  \ first appeared in the magazine Belgravia, a publication known for its sensationalism,\
+  \ and was presented in twelve monthly installments from January to December 1878.\
+  \ Because of the novel's controversial themes, Hardy had some difficulty finding\
+  \ a publisher; reviews, however, though somewhat mixed, were generally positive.\
+  \ In the twentieth century, The Return of the Native became one of Hardy's most\
+  \ popular novels.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '122'
+  wikidata: Q141568
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'People with visual disabilities -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Adultery -- Fiction'
+- !lcsh 'Wessex (England) -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Heathlands -- Fiction'
+- !lcsh 'Mothers and sons -- Fiction'
+- GITenberg
+title: The Return of the Native
+url: http://www.gutenberg.org/ebooks/122
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Retour_au_pays_natal
+- https://ar.wikipedia.org/wiki/%D8%B9%D9%88%D8%AF%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86
+- https://nl.wikipedia.org/wiki/The_Return_of_the_Native
+- https://eo.wikipedia.org/wiki/La_Reveno_de_la_Indi%C4%9Deno
+- https://es.wikipedia.org/wiki/El_regreso_del_nativo
+- https://en.wikipedia.org/wiki/The_Return_of_the_Native
