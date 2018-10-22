@@ -11,6 +11,7 @@ Title: Return of the Native
 Author: Thomas Hardy
 
 Release Date: March 8, 2006 [EBook #122]
+Last Updated: May 5, 2015
 
 Language: English
 
@@ -375,7 +376,7 @@ Thank God she sleeps so well, I hope she won't wake till she's home."
 "It is not that girl of Blooms-End, who has been talked about more or
 less lately? If so, I know her; and I can guess what has happened."
 
-"'Tis no matter....Now, sir, I am sorry to say that we shall soon have
+"'Tis no matter.... Now, sir, I am sorry to say that we shall soon have
 to part company. My ponies are tired, and I have further to go, and I am
 going to rest them under this bank for an hour."
 
@@ -777,7 +778,7 @@ your victuals."
 must dance at weddings because 'tis the time o' life. At christenings
 folk will even smuggle in a reel or two, if 'tis no further on than the
 first or second chiel. And this is not naming the songs you've got to
-sing....For my part I like a good hearty funeral as well as anything.
+sing.... For my part I like a good hearty funeral as well as anything.
 You've as splendid victuals and drink as at other parties, and even
 better. And it don't wear your legs to stumps in talking over a poor
 fellow's ways as it do to stand up in hornpipes."
@@ -830,7 +831,7 @@ and a lot more chaps grinning at me through church window. But the next
 moment a strawmote would have knocked me down, for I called to mind
 that if thy father and mother had had high words once, they'd been at
 it twenty times since they'd been man and wife, and I zid myself as the
-next poor stunpoll to get into the same mess....Ah--well, what a day
+next poor stunpoll to get into the same mess.... Ah--well, what a day
 'twas!"
 
 "Wildeve is older than Tamsin Yeobright by a good-few summers. A pretty
@@ -868,7 +869,7 @@ Fairway?" asked the turf-cutter.
 
 "Is he known in these parts?" said Olly Dowden.
 
-"Hardly," said Timothy; "but I name no name....Come, keep the fire up
+"Hardly," said Timothy; "but I name no name.... Come, keep the fire up
 there, youngsters."
 
 "Whatever is Christian Cantle's teeth a-chattering for?" said a boy from
@@ -1112,7 +1113,7 @@ is well-nigh out by the look o't."
 "How dark 'tis now the fire's gone down!" said Christian Cantle,
 looking behind him with his hare eyes. "Don't ye think we'd better get
 home-along, neighbours? The heth isn't haunted, I know; but we'd better
-get home....Ah, what was that?"
+get home.... Ah, what was that?"
 
 "Only the wind," said the turf-cutter.
 
@@ -1181,8 +1182,10 @@ figure approached the barrow.
 
 "Ought we not to run home as hard as we can, neighbours, as 'tis getting
 late?" said Christian. "Not run away from one another, you know; run
-close together, I mean." "Scrape up a few stray locks of furze, and make
-a blaze, so that we can see who the man is," said Fairway.
+close together, I mean."
+
+"Scrape up a few stray locks of furze, and make a blaze, so that we can
+see who the man is," said Fairway.
 
 When the flame arose it revealed a young man in tight raiment, and red
 from top to toe. "Is there a track across here to Mis'ess Yeobright's
@@ -1731,7 +1734,7 @@ dear, whatever Aunt may think."
 
 "She is very unpleasant."
 
-"Yes," Thomasin murmured, "and I suppose I seem so now....Damon, what do
+"Yes," Thomasin murmured, "and I suppose I seem so now.... Damon, what do
 you mean to do about me?"
 
 "Do about you?"
@@ -1968,7 +1971,7 @@ then just beginning to walk together--'What have ye got, my honey?'
 up in a moment. 'Tis a smock for a crown, I thought; and so it turned
 out. Ay, when I think what she'll say to me now without a mossel of red
 in her face, it do seem strange that 'a wouldn't say such a little thing
-then....However, then she went on, and that's what made me bring up the
+then.... However, then she went on, and that's what made me bring up the
 story. Well, whatever clothes I've won, white or figured, for eyes to
 see or for eyes not to see' ('a could do a pretty stroke of modesty in
 those days), 'I'd sooner have lost it than have seen what I have. Poor
@@ -1988,7 +1991,7 @@ God A'mighty's own man."
 "That depends on whether they be afeard."
 
 "I bain't afeard at all, I thank God!" said Christian strenuously. "I'm
-glad I bain't, for then 'twon't pain me....I don't think I be afeard--or
+glad I bain't, for then 'twon't pain me.... I don't think I be afeard--or
 if I be I can't help it, and I don't deserve to suffer. I wish I was not
 afeard at all!"
 
@@ -2486,7 +2489,7 @@ ready because I thought that you had been faithful to me."
 "What have you heard to make you think that?" said Wildeve, astonished.
 
 "That you did not marry her!" she murmured exultingly. "And I knew it
-was because you loved me best, and couldn't do it....Damon, you have
+was because you loved me best, and couldn't do it.... Damon, you have
 been cruel to me to go away, and I have said I would never forgive you.
 I do not think I can forgive you entirely, even now--it is too much for
 a woman of any spirit to quite overlook."
@@ -2515,7 +2518,7 @@ Wildeve was silent; it was evident that he had supposed as much.
 earnestly. "Then you wronged me; and upon my life and heart I can hardly
 bear to recognize that you have such ill thoughts of me! Damon, you are
 not worthy of me--I see it, and yet I love you. Never mind, let it go--I
-must bear your mean opinion as best I may....It is true, is it not," she
+must bear your mean opinion as best I may.... It is true, is it not," she
 added with ill-concealed anxiety, on his making no demonstration, "that
 you could not bring yourself to give me up, and are still going to love
 me best of all?"
@@ -3399,7 +3402,7 @@ tone which I don't at all like."
 me. Heaven, what can I, Eustacia Vye, be made of to think so much of
 you!"
 
-"Nonsense; do not be so passionate....Eustacia, how we roved among these
+"Nonsense; do not be so passionate.... Eustacia, how we roved among these
 bushes last year, when the hot days had got cool, and the shades of the
 hills kept us almost invisible in the hollows!"
 
@@ -3421,7 +3424,7 @@ said slowly.
 "I care a little, but not enough to break my rest," replied the young
 man languidly. "No, all that's past. I find there are two flowers where
 I thought there was only one. Perhaps there are three, or four, or any
-number as good as the first....Mine is a curious fate. Who would have
+number as good as the first.... Mine is a curious fate. Who would have
 thought that all this could happen to me?"
 
 She interrupted with a suppressed fire of which either love or anger
@@ -4284,7 +4287,7 @@ what 'twill be next God knows."'"
 "A good many of us knew as well as He before long," said the captain,
 chuckling. "I lived seven years under water on account of it in my
 boyhood--in that damned surgery of the Triumph, seeing men brought down
-to the cockpit with their legs and arms blown to Jericho....And so the
+to the cockpit with their legs and arms blown to Jericho.... And so the
 young man has settled in Paris. Manager to a diamond merchant, or some
 such thing, is he not?"
 
@@ -5858,10 +5861,12 @@ come. Have I ever been acquainted with you in my youth?"
 "Well, you are safe with me." After remaining in thought a minute he
 added gently, "I will not intrude upon you longer. It is a strange way
 of meeting, and I will not ask why I find a cultivated woman playing
-such a part as this." She did not volunteer the reason which he seemed
-to hope for, and he wished her good night, going thence round to the
-back of the house, where he walked up and down by himself for some time
-before re-entering.
+such a part as this."
+
+She did not volunteer the reason which he seemed to hope for, and he
+wished her good night, going thence round to the back of the house,
+where he walked up and down by himself for some time before re-
+entering.
 
 Eustacia, warmed with an inner fire, could not wait for her companions
 after this. She flung back the ribbons from her face, opened the
@@ -6314,8 +6319,9 @@ drawn up within the settle, so that part of it projected into the
 chimney-corner.
 
 "I don't like your going out after dark alone, Tamsin," said her aunt
-quietly, without looking up from her work. "I have only been just
-outside the door."
+quietly, without looking up from her work.
+
+"I have only been just outside the door."
 
 "Well?" inquired Mrs. Yeobright, struck by a change in the tone of
 Thomasin's voice, and observing her. Thomasin's cheek was flushed to a
@@ -6882,7 +6888,7 @@ more ridiculous? I said."
 
 "No, no--you are wrong; it isn't."
 
-"Beg your pardon, we thought that was your maning?"
+"Beg your pardon, we thought that was your meaning?"
 
 "Well, as my views changed my course became very depressing. I found
 that I was trying to be like people who had hardly anything in common
@@ -7496,7 +7502,7 @@ rope had dragged off the skin. Eustacia wrapped it in her handkerchief.
 
 "You should have let go," said Yeobright. "Why didn't you?"
 
-"You said I was to hold on....This is the second time I have been
+"You said I was to hold on.... This is the second time I have been
 wounded today."
 
 "Ah, yes; I have heard of it. I blush for my native Egdon. Was it a
@@ -7809,11 +7815,9 @@ to be as good a woman as any you can find, which she certainly is not,
 why do you wish to connect yourself with anybody at present?"
 
 "Well, there are practical reasons," Clym began, and then almost broke
-off under an overpowering sense of the weight of argument which could be
-brought against his statement.
-
-"If I take a school an educated woman would be invaluable as a help to
-me."
+off under an overpowering sense of the weight of argument which could
+be brought against his statement. "If I take a school an educated woman
+would be invaluable as a help to me."
 
 "What! you really mean to marry her?"
 
@@ -8108,7 +8112,7 @@ slipping!" She pointed towards the half-eclipsed moon.
 "No. Only I dread to think of anything beyond the present. What is, we
 know. We are together now, and it is unknown how long we shall be so;
 the unknown always fills my mind with terrible possibilities, even
-when I may reasonably expect it to be cheerful....Clym, the eclipsed
+when I may reasonably expect it to be cheerful.... Clym, the eclipsed
 moonlight shines upon your face with a strange foreign colour, and shows
 its shape as if it were cut out in gold. That means that you should be
 doing better things than this."
@@ -8666,7 +8670,7 @@ moment."
 tell your husband distinctly that you are without any, and see what he
 will do."
 
-"Very well, I will....Aunt, I have heard about Clym. I know you are in
+"Very well, I will.... Aunt, I have heard about Clym. I know you are in
 trouble about him, and that's why I have come."
 
 Mrs. Yeobright turned away, and her features worked in her attempt to
@@ -8715,7 +8719,7 @@ deeply a case like this."
 "Thomasin, don't lecture me--I can't have it. It is the excess above
 what we expect that makes the force of the blow, and that may not
 be greater in their case than in mine--they may have foreseen the
-worst....I am wrongly made, Thomasin," she added, with a mournful smile.
+worst.... I am wrongly made, Thomasin," she added, with a mournful smile.
 "Some widows can guard against the wounds their children give them by
 turning their hearts to another husband and beginning life again. But I
 always was a poor, weak, one-idea'd creature--I had not the compass of
@@ -8856,11 +8860,10 @@ with no surprise that she saw him enter now.
 
 "Thomasin has not been able to come, as she promised to do," he replied
 to her inquiry, which had been anxious, for she knew that her niece was
-badly in want of money.
-
-"The captain came down last night and personally pressed her to join
-them today. So, not to be unpleasant, she determined to go. They fetched
-her in the pony-chaise, and are going to bring her back."
+badly in want of money. "The captain came down last night and
+personally pressed her to join them today. So, not to be unpleasant,
+she determined to go. They fetched her in the pony-chaise, and are
+going to bring her back."
 
 "Then it is done," said Mrs. Yeobright. "Have they gone to their new
 home?"
@@ -9214,7 +9217,7 @@ higher, till he became very rich, got an appointment in India, and rose
 to be Governor of Madras. His daughter married a member of Parliament,
 and the Bishop of Carlisle stood godfather to one of the children."
 
-"Wonderfull wonderfull"
+"Wonderful! wonderful!"
 
 "And once there was a young man in America who gambled till he had lost
 his last dollar. He staked his watch and chain, and lost as before;
@@ -9555,10 +9558,8 @@ Wildeve had now ten guineas left; and each laid five. Wildeve threw
 three points; Venn two, and raked in the coins. The other seized the
 die, and clenched his teeth upon it in sheer rage, as if he would bite
 it in pieces. "Never give in--here are my last five!" he cried, throwing
-them down.
-
-"Hang the glowworms--they are going out. Why don't you burn, you little
-fools? Stir them up with a thorn."
+them down. "Hang the glowworms--they are going out. Why don't you burn,
+you little fools? Stir them up with a thorn."
 
 He probed the glowworms with a bit of stick, and rolled them over, till
 the bright side of their tails was upwards.
@@ -9956,12 +9957,13 @@ hearthrug in the bedroom, looking upon the floor, her hands clasped in
 front of her, her bonnet yet unremoved. For a moment she did not answer;
 and then she replied in a low voice--
 
-"I have seen your mother; and I will never see her again!" A weight fell
-like a stone upon Clym. That same morning, when Eustacia had arranged
-to go and see her grandfather, Clym had expressed a wish that she would
-drive down to Blooms-End and inquire for her mother-in-law, or adopt any
-other means she might think fit to bring about a reconciliation. She had
-set out gaily; and he had hoped for much.
+"I have seen your mother; and I will never see her again!"
+
+A weight fell like a stone upon Clym. That same morning, when Eustacia
+had arranged to go and see her grandfather, Clym had expressed a wish
+that she would drive down to Blooms-End and inquire for her mother-in-
+law, or adopt any other means she might think fit to bring about a
+reconciliation. She had set out gaily; and he had hoped for much.
 
 "Why is this?" he asked.
 
@@ -10216,7 +10218,9 @@ colours are brightest. Litters of young rabbits came out from their
 forms to sun themselves upon hillocks, the hot beams blazing through the
 delicate tissue of each thin-fleshed ear, and firing it to a blood-red
 transparency in which the veins could be seen. None of them feared
-him. The monotony of his occupation soothed him, and was in itself
+him.
+
+The monotony of his occupation soothed him, and was in itself
 a pleasure. A forced limitation of effort offered a justification of
 homely courses to an unambitious man, whose conscience would hardly have
 allowed him to remain in such obscurity while his powers were unimpeded.
@@ -10230,14 +10234,12 @@ direction of Yeobright's place of work. He was busily chopping away
 at the furze, a long row of faggots which stretched downward from his
 position representing the labour of the day. He did not observe her
 approach, and she stood close to him, and heard his undercurrent of
-song.
-
-It shocked her. To see him there, a poor afflicted man, earning money by
-the sweat of his brow, had at first moved her to tears; but to hear
-him sing and not at all rebel against an occupation which, however
-satisfactory to himself, was degrading to her, as an educated lady-wife,
-wounded her through. Unconscious of her presence, he still went on
-singing:--
+song. It shocked her. To see him there, a poor afflicted man, earning
+money by the sweat of his brow, had at first moved her to tears; but to
+hear him sing and not at all rebel against an occupation which, however
+satisfactory to himself, was degrading to her, as an educated lady-
+wife, wounded her through. Unconscious of her presence, he still went
+on singing:--
 
             "Le point du jour
           A nos bosquets rend toute leur parure;
@@ -11098,7 +11100,7 @@ thinking."
 the candle," she said slowly. "But you know I always take an interest in
 what you say."
 
-"Very well, dear. Then I think I must go and call upon her."...He went
+"Very well, dear. Then I think I must go and call upon her." ...He went
 on with tender feeling: "It is a thing I am not at all too proud to do,
 and only a fear that I might irritate her has kept me away so long. But
 I must do something. It is wrong in me to allow this sort of thing to go
@@ -11121,7 +11123,7 @@ At first Eustacia closed her lips as if she would rather do anything
 on the whole globe than what he suggested. But the lines of her mouth
 softened with thought, though not so far as they might have softened,
 and she said, "I will put nothing in your way; but after what has passed
-it, is asking too much that I go and make advances."
+it is asking too much that I go and make advances."
 
 "You never distinctly told me what did pass between you."
 
@@ -11430,7 +11432,7 @@ before. On account of your rebellious manner to me I was tempted to go
 further than I should have done; and when you still would keep playing
 the same tantalizing part I went further still, and married her."
 Turning and looking again at the unconscious form of Clym, he murmured,
-"I am afraid that you don't value your prize, Clym....He ought to be
+"I am afraid that you don't value your prize, Clym.... He ought to be
 happier than I in one thing at least. He may know what it is to come
 down in the world, and to be afflicted with a great personal calamity;
 but he probably doesn't know what it is to lose the woman he loved."
@@ -12259,7 +12261,7 @@ to gratify them. "You think a good deal of Paris?" she added.
 think of a certain evening by Rainbarrow, when you promised to meet me
 and did not. You sent me a letter; and my heart ached to read that as
 I hope yours never will. That was one point of divergence. I then did
-something in haste....But she is a good woman, and I will say no more."
+something in haste.... But she is a good woman, and I will say no more."
 
 "I know that the blame was on my side that time," said Eustacia. "But it
 had not always been so. However, it is my misfortune to be too sudden in
@@ -12473,7 +12475,7 @@ not give an opinion, he would say, "That's because you didn't know my
 mother's nature. She was always ready to forgive if asked to do so;
 but I seemed to her to be as an obstinate child, and that made
 her unyielding. Yet not unyielding--she was proud and reserved, no
-more....Yes, I can understand why she held out against me so long. She
+more.... Yes, I can understand why she held out against me so long. She
 was waiting for me. I dare say she said a hundred times in her sorrow,
 'What a return he makes for all the sacrifices I have made for him!' I
 never went to her! When I set out to visit her it was too late. To think
@@ -12659,7 +12661,7 @@ and said one word: "Well?"
 "Then don't do so till he is well--it will be fatal. You are ill
 yourself."
 
-"I am wretched....O Damon," she said, bursting into tears, "I--I can't
+"I am wretched.... O Damon," she said, bursting into tears, "I--I can't
 tell you how unhappy I am! I can hardly bear this. I can tell nobody of
 my trouble--nobody knows of it but you."
 
@@ -12674,7 +12676,7 @@ after hour, and hear him reproach himself as being the cause of her
 death, and to know that I am the sinner, if any human being is at all,
 drives me into cold despair. I don't know what to do. Should I tell him
 or should I not tell him? I always am asking myself that. O, I want to
-tell him; and yet I am afraid. If he find it out he must surely kill me,
+tell him; and yet I am afraid. If he finds it out he must surely kill me,
 for nothing else will be in proportion to his feelings now. 'Beware the
 fury of a patient man' sounds day by day in my ears as I watch him."
 
@@ -13372,7 +13374,7 @@ cruel deed! What was the fellow's name who was keeping you company and
 causing you to add cruelty to her to your wrong to me? Was it Wildeve?
 Was it poor Thomasin's husband? Heaven, what wickedness! Lost your
 voice, have you? It is natural after detection of that most noble
-trick....Eustacia, didn't any tender thought of your own mother lead you
+trick.... Eustacia, didn't any tender thought of your own mother lead you
 to think of being gentle to mine at such a time of weariness? Did not
 one grain of pity enter your heart as she turned away? Think what a vast
 opportunity was then lost of beginning a forgiving and honest course.
@@ -13793,7 +13795,7 @@ blazed the fire, which at once sent a ruddy glare into the room where
 she was, and overpowered the candles.
 
 "Well done, Charley!" said Captain Vye from the chimney-corner. "But I
-hope it is not my wood that he's burning....Ah, it was this time last
+hope it is not my wood that he's burning.... Ah, it was this time last
 year that I met with that man Venn, bringing home Thomasin Yeobright--to
 be sure it was! Well, who would have thought that girl's troubles would
 have ended so well? What a snipe you were in that matter, Eustacia! Has
@@ -14902,7 +14904,7 @@ one."
 "No, it couldn't be. 'Tis too late. The noise of her gown over the he'th
 was of a whistling sort that nothing but silk will make."
 
-"It wasn't I, then. My dress is not silk, you see....Are we anywhere in
+"It wasn't I, then. My dress is not silk, you see.... Are we anywhere in
 a line between Mistover and the inn?"
 
 "Well, yes; not far out."
@@ -16206,7 +16208,7 @@ the decent pitch that becomes a old man."
 smartly. "I wish that the dread of infirmities was not so strong in
 me!--I'd start the very first thing tomorrow to see the world over
 again! But seventy-one, though nothing at home, is a high figure for a
-rover....Ay, seventy-one, last Candlemasday. Gad, I'd sooner have it in
+rover.... Ay, seventy-one, last Candlemasday. Gad, I'd sooner have it in
 guineas than in years!" And the old man sighed.
 
 "Don't you be mournful, Grandfer," said Fairway. "Empt some more
